@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello, welcome to my profile</h1>
 
 ###
 
-<p align="left">My name is Nicolás and I'm a student  of software engineering, from 🇨🇱</p>
+<p align="left">My name is Nicolás and I'm a student of software engineering from 🇨🇱</p>
 
 ###
 
